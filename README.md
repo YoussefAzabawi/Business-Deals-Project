@@ -1,4 +1,4 @@
-# business_deals
+# Business Deals Graduation Project
 
 A new Flutter project.
 
